@@ -1,16 +1,44 @@
-# React + Vite
+# 🎬 CineScope — React Movie Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CineScope is a modern React web application that allows users to **search for trending movies**, **discover new titles**, and **bookmark favorites** for later viewing.
 
-Currently, two official plugins are available:
+Built using **React.js**, this project helped me strengthen my understanding of **state management**, **React hooks**, and **API integration**. The movie data is fetched dynamically from an external movie API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔍 **Search Movies** — Quickly find movies by title.
+- 🔥 **Trending Section** — View currently trending films.
+- ❤️ **Add to Favorites** — Bookmark your favorite movies for easy access.
+- 🧭 **Persistent Tracking** — Favorites are saved locally so you can revisit them anytime.
+- ⚡ **Responsive UI** — Works seamlessly across devices.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 What I Learned
+
+Through this project (with help from a YouTube tutorial), I learned how to:
+- Work with **React hooks** like `useState` and `useEffect`.
+- Fetch data from APIs using **Axios**.
+- Use **React Router** for smooth navigation.
+- Manage favorite movies using **localStorage**.
+- Create reusable and clean **React components**.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Axios**
+- **React Router DOM**
+- **CSS / TailwindCSS** (optional — depending on your styling)
+- **Movie API (TMDB or similar)**
+
+---
+
+## 📦 Setup & Installation
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/MovieVerse-Discover-Bookmark-Trending-Films.git
