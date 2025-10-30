@@ -1,4 +1,4 @@
-# 🎬 CineScope — React Movie Explorer
+# 🎬 MovieVerse-Discover-Bookmark-Trending-Films
 
 CineScope is a modern React web application that allows users to **search for trending movies**, **discover new titles**, and **bookmark favorites** for later viewing.
 
